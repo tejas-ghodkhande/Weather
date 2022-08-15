@@ -31,5 +31,5 @@ btn.addEventListener('click', function() {
             wind.innerHTML = `Wind Speed: ${wndspd} km/h`
 
         })
-        .catch(err => alert('You entered Wrong city name'))
+        .catch(err => alert('OOPS!!...You entered Wrong city name'))
 })
