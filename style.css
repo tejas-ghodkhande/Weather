@@ -122,3 +122,9 @@ a:active {
     margin: 10px 0;
     font-size: 20px;
 }
+
+marquee {
+    color: black;
+    font-size: 2.5rem;
+    color: red;
+}
